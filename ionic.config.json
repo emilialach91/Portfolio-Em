@@ -1,0 +1,7 @@
+{
+  "name": "Portfolio-Em",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
