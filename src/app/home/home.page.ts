@@ -19,7 +19,7 @@ export class HomePage implements AfterViewInit {
 	ngAfterViewInit(): void {
 		setTimeout(() => {
 			this.typingEffect();
-		}, 2000)
+		}, 3000)
 	}
 
 
